@@ -1,6 +1,6 @@
 {
   "name": "bookshelf-uuid",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Automatically generates UUID for your models",
   "main": "index.js",
   "scripts": {
