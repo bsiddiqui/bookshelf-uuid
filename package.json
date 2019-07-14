@@ -33,7 +33,7 @@
   },
   "homepage": "https://github.com/estate/bookshelf-uuid#readme",
   "dependencies": {
-    "lodash.merge": "^4.3.5",
+    "lodash.merge": "^4.6.2",
     "lodash.result": "^4.3.0",
     "uuid": "^2.0.2"
   },
